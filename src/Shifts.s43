@@ -1,0 +1,34 @@
+/**************************************************
+ *
+ * IAR EMBEDDED WORKBENCH TUTORIAL
+ * Assembler and library tutorial.
+ *
+ * Copyright 1996-2004 IAR Systems. All rights reserved.
+ *
+ * $Revision: 4055 $
+ *
+ **************************************************/
+
+        MODULE  r_shift
+        PUBLIC  r_shift
+        RSEG    CODE
+
+r_shift TST     R5
+        JEQ     r_shift2
+        RRA     R4
+        DEC     R5
+        JNE     r_shift
+r_shift2        RET
+        ENDMOD
+
+        MODULE  l_shift
+        PUBLIC  l_shift
+        RSEG    prom
+l_shift TST     R5
+        JEQ     l_shift2
+        RLA     R4
+        DEC     R5
+        JNE     l_shift
+l_shift2        RET
+
+        END

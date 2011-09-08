@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log/>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>820</ColumnWidth1><ColumnWidth2>218</ColumnWidth2><ColumnWidth3>54</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>108</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+      <MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly>
+      <TerminalIO>
+        
+        
+        
+        
+        
+      <InputSource>1</InputSource><InputMode>10</InputMode><Filename>$PROJ_DIR$\TermIOInput.txt</Filename><InputEcho>1</InputEcho><ShowReset>0</ShowReset></TerminalIO>
+    <Memory><FindDirection>1</FindDirection><FindAsHex>0</FindAsHex></Memory></Static>
+    <Windows>
+      
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-5436-19328</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-15661-19341</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-16184-19331</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>iam</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4><Wnd5>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-26933-19334</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd5><Wnd6>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-23273-19403</Identity>
+            <TabName>Terminal I/O</TabName>
+            <Factory>TerminalIO</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd6><Wnd7><Tabs><Tab><Identity>TabID-29690-18813</Identity><TabName>Memory</TabName><Factory>Memory</Factory><Session><ZoneNumber>0</ZoneNumber><SelectionAnchor>12248</SelectionAnchor><SelectionEnd>12504</SelectionEnd><UnitsPerGroup>1</UnitsPerGroup><EndianMode>0</EndianMode><DataCovEnabled>0</DataCovEnabled><DataCovShown>0</DataCovShown><HScroll>0</HScroll><VScroll>761</VScroll></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd7></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\HW\hwKBD.c</Filename><XPos>0</XPos><YPos>9</YPos><SelStart>944</SelStart><SelEnd>944</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\inc\kbd.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>357</SelStart><SelEnd>365</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\fed\test\HALayer.c</Filename><XPos>0</XPos><YPos>298</YPos><SelStart>6762</SelStart><SelEnd>6762</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\utils.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>258</SelStart><SelEnd>258</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\ucfs\DEVICE\mmc_sd\mmc_cmd.c</Filename><XPos>0</XPos><YPos>38</YPos><SelStart>8141</SelStart><SelEnd>9004</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\FS\inc\ioman.h</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>3140</SelStart><SelEnd>3140</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\errors.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>55</SelStart><SelEnd>65</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\FS\inc\efs.h</Filename><XPos>0</XPos><YPos>32</YPos><SelStart>2863</SelStart><SelEnd>2863</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\fs\interfaces\sd.h</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>3152</SelStart><SelEnd>3152</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\boot\src\hardware.c</Filename><XPos>0</XPos><YPos>40</YPos><SelStart>619</SelStart><SelEnd>619</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\fs\plibc.c</Filename><XPos>0</XPos><YPos>42</YPos><SelStart>3438</SelStart><SelEnd>3438</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\fs\interfaces\msp2617_sd.h</Filename><XPos>0</XPos><YPos>20</YPos><SelStart>1004</SelStart><SelEnd>1004</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\FS\inc\error.h</Filename><XPos>0</XPos><YPos>43</YPos><SelStart>3179</SelStart><SelEnd>3179</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\fs\efs.c</Filename><XPos>0</XPos><YPos>35</YPos><SelStart>3126</SelStart><SelEnd>3126</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\FS\inc\disc.h</Filename><XPos>0</XPos><YPos>53</YPos><SelStart>3587</SelStart><SelEnd>3587</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\fs\fat.c</Filename><XPos>0</XPos><YPos>542</YPos><SelStart>18119</SelStart><SelEnd>18119</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\FS\inc\file.h</Filename><XPos>0</XPos><YPos>59</YPos><SelStart>3910</SelStart><SelEnd>3910</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\fs\fs.c</Filename><XPos>0</XPos><YPos>263</YPos><SelStart>3901</SelStart><SelEnd>3901</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\fs\inc\fat.h</Filename><XPos>0</XPos><YPos>34</YPos><SelStart>3131</SelStart><SelEnd>3131</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\fs\mkfs.c</Filename><XPos>0</XPos><YPos>414</YPos><SelStart>11346</SelStart><SelEnd>11346</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\fs\partition.c</Filename><XPos>0</XPos><YPos>134</YPos><SelStart>6723</SelStart><SelEnd>6723</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\fs\ioman.c</Filename><XPos>0</XPos><YPos>266</YPos><SelStart>9669</SelStart><SelEnd>9669</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\disk_sd.c</Filename><XPos>0</XPos><YPos>106</YPos><SelStart>2476</SelStart><SelEnd>2476</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\fs\interfaces\msp2617_sd.c</Filename><XPos>0</XPos><YPos>106</YPos><SelStart>3067</SelStart><SelEnd>3067</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\fs\file.c</Filename><XPos>0</XPos><YPos>167</YPos><SelStart>7111</SelStart><SelEnd>7111</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\fs\interfaces\sd.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>233</SelStart><SelEnd>233</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\rtc.c</Filename><XPos>0</XPos><YPos>182</YPos><SelStart>3522</SelStart><SelEnd>3522</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\ts_r.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>152</SelStart><SelEnd>152</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\ts_r.c</Filename><XPos>0</XPos><YPos>1345</YPos><SelStart>29873</SelStart><SelEnd>29873</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\utils.c</Filename><XPos>0</XPos><YPos>26</YPos><SelStart>632</SelStart><SelEnd>632</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\ADC.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\HW\ds1390.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\inc\gscan.h</Filename><XPos>0</XPos><YPos>16</YPos><SelStart>767</SelStart><SelEnd>767</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\inc\iam.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>2203</SelStart><SelEnd>2203</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\src\ADC.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>21</SelStart><SelEnd>21</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\vcl\dispatch.c</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>704</SelStart><SelEnd>704</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\BlueTooth.c</Filename><XPos>0</XPos><YPos>447</YPos><SelStart>11925</SelStart><SelEnd>11925</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\KBD.c</Filename><XPos>0</XPos><YPos>90</YPos><SelStart>1821</SelStart><SelEnd>1832</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\ts_option.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>131</SelStart><SelEnd>145</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\hardware.h</Filename><XPos>0</XPos><YPos>1</YPos><SelStart>256</SelStart><SelEnd>263</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\inc\hw_iam.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>239</SelStart><SelEnd>239</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench Evaluation 5.0\430\inc\intrinsics.h</Filename><XPos>0</XPos><YPos>27</YPos><SelStart>649</SelStart><SelEnd>668</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\ts_func.c</Filename><XPos>0</XPos><YPos>19</YPos><SelStart>439</SelStart><SelEnd>439</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\timeslot\timeslot.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>322</SelStart><SelEnd>322</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\boot\src\main.c</Filename><XPos>0</XPos><YPos>55</YPos><SelStart>1667</SelStart><SelEnd>1667</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\main.c</Filename><XPos>0</XPos><YPos>65</YPos><SelStart>1858</SelStart><SelEnd>1858</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\LCD.c</Filename><XPos>0</XPos><YPos>190</YPos><SelStart>4702</SelStart><SelEnd>4702</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\timeslot\timeslot.c</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>834</SelStart><SelEnd>842</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\hardware.c</Filename><XPos>0</XPos><YPos>263</YPos><SelStart>6014</SelStart><SelEnd>6014</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\lcd.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>340</SelStart><SelEnd>340</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\boot\src\LCD.c</Filename><XPos>0</XPos><YPos>109</YPos><SelStart>3029</SelStart><SelEnd>3029</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\vcl\vcl.h</Filename><XPos>0</XPos><YPos>107</YPos><SelStart>2827</SelStart><SelEnd>2827</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\rmetr\src\design.c</Filename><XPos>0</XPos><YPos>496</YPos><SelStart>9713</SelStart><SelEnd>9713</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\lib\vcl\vcl.c</Filename><XPos>0</XPos><YPos>881</YPos><SelStart>18592</SelStart><SelEnd>18592</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\src\hardware.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>189</SelStart><SelEnd>189</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\lib\vcl\vcl.c</Filename><XPos>0</XPos><YPos>402</YPos><SelStart>7986</SelStart><SelEnd>7986</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\src\KBD.c</Filename><XPos>0</XPos><YPos>45</YPos><SelStart>900</SelStart><SelEnd>900</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\inc\hw_iam.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\src\LCD.c</Filename><XPos>0</XPos><YPos>269</YPos><SelStart>5725</SelStart><SelEnd>5725</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\inc\hw_iam2.h</Filename><XPos>0</XPos><YPos>89</YPos><SelStart>3092</SelStart><SelEnd>3092</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\src\rtc.c</Filename><XPos>0</XPos><YPos>51</YPos><SelStart>1367</SelStart><SelEnd>1367</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\src\rtc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\iam_iar\src\ds1390.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>227</SelStart><SelEnd>227</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\iam_iar\src\ds3234.h</Filename><XPos>0</XPos><YPos>22</YPos><SelStart>722</SelStart><SelEnd>722</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\iam_iar\src\ds3234.c</Filename><XPos>0</XPos><YPos>58</YPos><SelStart>1218</SelStart><SelEnd>1218</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\src\main.c</Filename><XPos>0</XPos><YPos>78</YPos><SelStart>1938</SelStart><SelEnd>1938</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\src\design.c</Filename><XPos>0</XPos><YPos>1187</YPos><SelStart>25641</SelStart><SelEnd>25641</SelEnd></Tab><ActiveTab>66</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\src\ts_r.c</Filename><XPos>0</XPos><YPos>292</YPos><SelStart>6211</SelStart><SelEnd>6211</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\iam_iar\src\disk_sd.c</Filename><XPos>0</XPos><YPos>31</YPos><SelStart>915</SelStart><SelEnd>915</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\iam_iar\src\hardware.c</Filename><XPos>0</XPos><YPos>85</YPos><SelStart>1748</SelStart><SelEnd>1748</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\my_projects\r\iam\lib\vcl\dispatch.c</Filename><XPos>0</XPos><YPos>199</YPos><SelStart>4160</SelStart><SelEnd>4160</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01b383c8><key>iaridepm.enu1</key></Toolbar-01b383c8></Sizes></Row0><Row1><Sizes><Toolbar-05fc0a60><key>debuggergui.enu1</key></Toolbar-05fc0a60></Sizes></Row1><Row2><Sizes><Toolbar-05fabaa0><key>430fet1</key></Toolbar-05fabaa0></Sizes></Row2><Row3><Sizes/></Row3><Row4><Sizes/></Row4><Row5><Sizes/></Row5><Row6><Sizes/></Row6><Row7><Sizes/></Row7><Row8><Sizes/></Row8><Row9><Sizes/></Row9></Top><Left><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>310</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>173611</sizeHorzCX><sizeHorzCY>250627</sizeHorzCY><sizeVertCX>173611</sizeVertCX><sizeVertCY>390977</sizeVertCY></Rect></Wnd4></Sizes></Row0></Left><Right><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>310</Bottom><Right>198</Right><x>-2</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>173611</sizeHorzCX><sizeHorzCY>250627</sizeHorzCY><sizeVertCX>173611</sizeVertCX><sizeVertCY>390977</sizeVertCY></Rect></Wnd5></Sizes></Row0><Row1><Sizes><Wnd6><Rect><Top>-2</Top><Left>196</Left><Bottom>310</Bottom><Right>396</Right><x>196</x><y>-2</y><xscreen>200</xscreen><yscreen>200</yscreen><sizeHorzCX>173611</sizeHorzCX><sizeHorzCY>250627</sizeHorzCY><sizeVertCX>173611</sizeVertCX><sizeVertCY>390977</sizeVertCY></Rect></Wnd6></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1154</Right><x>-2</x><y>-2</y><xscreen>1156</xscreen><yscreen>200</yscreen><sizeHorzCX>1003472</sizeHorzCX><sizeHorzCY>250627</sizeHorzCY><sizeVertCX>173611</sizeVertCX><sizeVertCY>250627</sizeVertCY></Rect></Wnd0></Sizes></Row0><Row1><Sizes><Wnd7><Rect><Top>196</Top><Left>-2</Left><Bottom>396</Bottom><Right>1154</Right><x>-2</x><y>196</y><xscreen>1156</xscreen><yscreen>200</yscreen><sizeHorzCX>1003472</sizeHorzCX><sizeHorzCY>250627</sizeHorzCY><sizeVertCX>173611</sizeVertCX><sizeVertCY>250627</sizeVertCY></Rect></Wnd7></Sizes></Row1></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

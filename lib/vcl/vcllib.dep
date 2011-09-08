@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>823834408</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Debug\Obj\inputbox.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\info.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdlib.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\hourglass.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\yvals.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\enumbox.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ysizet.h</file>
+      <file>$PROJ_DIR$\dispatch.h</file>
+      <file>$PROJ_DIR$\enumbox.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Exe\vcllib.r43</file>
+      <file>$PROJ_DIR$\msgbox.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\Memo.pbi</file>
+      <file>$PROJ_DIR$\menu.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\vcl.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\menu.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\msgbox.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\listbox.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\dlib\stdarg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\wizard.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\vcllib.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\hourglass.pbi</file>
+      <file>$PROJ_DIR$\vcl.h</file>
+      <file>$PROJ_DIR$\dispatch.c</file>
+      <file>$PROJ_DIR$\wizard.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\dispatch.pbi</file>
+      <file>$PROJ_DIR$\hourglass.c</file>
+      <file>$PROJ_DIR$\enumbox.c</file>
+      <file>$PROJ_DIR$\info.c</file>
+      <file>$PROJ_DIR$\inputbox.c</file>
+      <file>$PROJ_DIR$\listbox.c</file>
+      <file>$PROJ_DIR$\Memo.c</file>
+      <file>$PROJ_DIR$\menu.c</file>
+      <file>$PROJ_DIR$\msgbox.c</file>
+      <file>$PROJ_DIR$\vcl.c</file>
+      <file>$PROJ_DIR$\wizard.c</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XAR</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\vcllib.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 17 31 7 27 1 0 23 20 21 19 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\dispatch.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10 28 18 16 11 30 5 14 13 6 4 22 3 8 9 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\hourglass.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 18 10 16 11 30 5 14 13 6 4 22 3 8 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\enumbox.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 18 10 16 11 30 5 24 13 6 4 22 3 8 2 9 14 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\info.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 18 10 16 11 30 5 14 13 6 4 22 3 8 9 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\inputbox.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 0</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 18 10 16 11 30 5 14 13 6 4 22 3 8 9 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\listbox.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 18 10 16 11 30 5 14 13 6 4 22 3 8 9 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Memo.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 18 10 16 11 30 5 14 13 6 4 22 3 8 9 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\menu.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 20</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 18 10 16 11 30 5 14 13 6 4 22 3 8 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\msgbox.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICC430</name>
+          <file> 28</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 18 10 16 11 30 5 14 13 6 4 22 3 8 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\vcl.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 18 10 16 11 30 5 14 13 6 4 22 3 8 9 12</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\wizard.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 25</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 28 18 10 16 11 30 5 14 13 6 4 22 3 8 9</file>
+        </tool>
+      </inputs>
+    </file>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XAR</tool>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
